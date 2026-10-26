@@ -5,14 +5,15 @@
 Key facts:
 - Home elevators typically cost $36,000 to $100,000+, depending on lift type, levels served, shaft, cabin size and finish. Final pricing follows a site assessment.
 - Factory backed 5 Year Parts Warranty (parts only) on full elevators (Vector Pro, Zenith Ultra, Atlus, Zenith DDA, E1, RB150); 2 years on Levare compact lifts.
+- All Lift Ease units are machine-room-less: no model needs a machine room.
 - Elevators are built to AS 1735; commercial lifts are DDA compliant.
 - All home elevators run on single phase 230VAC; only the E1 needs three phase.
 - Showroom open Monday to Friday, 9am to 5pm (book online); Saturdays by appointment only.
 
 ## Home elevators
 - [Vector Pro](https://www.liftease.com.au/vector-pro): hydraulic home elevator, 120 mm pit, up to 10 m travel and 4 stops, 400 kg (5 person), cabins 750 × 700 to 1100 × 1350 mm, no machine room, 1–2 week install. [Specs](https://www.liftease.com.au/specs/vector-pro)
-- [Zenith Ultra](https://www.liftease.com.au/zenith-ultra): home version of the Zenith, advanced belt-drive, up to 15 m and 6 levels (G+5), 150–300 mm pit, 450 kg (6 person), cabins 1000 × 1200 and 1100 × 1400 mm. [Specs](https://www.liftease.com.au/specs/zenith-ultra)
-- [Atlus](https://www.liftease.com.au/products/atlus): electric hybrid screw drive, 50–150 mm pit, 400 kg (5 person), 0.15–0.30 m/s, no oil, battery backup, touch screen standard. [Specs](https://www.liftease.com.au/specs/atlus)
+- [Zenith Ultra](https://www.liftease.com.au/zenith-ultra): home version of the Zenith, advanced belt-drive, machine-room-less, up to 15 m and 6 levels (G+5), 150–300 mm pit, 450 kg (6 person), cabins 1000 × 1200 and 1100 × 1400 mm. [Specs](https://www.liftease.com.au/specs/zenith-ultra)
+- [Atlus](https://www.liftease.com.au/products/atlus): electric hybrid screw drive, machine-room-less, 50–150 mm pit, 400 kg (5 person), 0.15–0.30 m/s, no oil, battery backup, touch screen standard. [Specs](https://www.liftease.com.au/specs/atlus)
 - [Levare Compact](https://www.liftease.com.au/levare-compact) and [Levare Plus](https://www.liftease.com.au/levare-plus): shaft-less compact home lifts, about 2 day install.
 
 ## Commercial and DDA lifts
