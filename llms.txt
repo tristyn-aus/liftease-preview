@@ -8,6 +8,7 @@ Key facts:
 - All Lift Ease units are machine-room-less: no model needs a machine room.
 - Elevators are built to AS 1735; commercial lifts are DDA compliant.
 - All home elevators run on single phase 230VAC; only the E1 needs three phase.
+- [Integrated Shaft vs Structural Tower](https://www.liftease.com.au/blog/integrated-shaft-vs-structural-tower-who-builds-the-lift-shaft): who builds the lift shaft (your builder to our specs, or a Lift Ease Structural Tower), glass tower options, and pit and headroom figures.
 - Showroom open Monday to Friday, 9am to 5pm (book online); Saturdays by appointment only.
 
 ## Home elevators
