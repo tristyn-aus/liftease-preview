@@ -1,0 +1,1 @@
+const e={enabled:!1,gtm:["GTM-MG4DJ594"],googleAds:"AW-17781263613",metaPixel:"644695601739729",googleAdsLeadLabel:"pxIbCMjp0Z4dEP2Z4p5C",googleAdsPhoneLabel:"rRJKCNma2Z4dEP2Z4p5C"},a={fullElevators:{short:"5 Year Parts Warranty"}};export{e as T,a as W};
